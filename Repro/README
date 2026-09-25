@@ -1,4 +1,4 @@
-Code and data to develop the spawning seasonality and the maturity and transition ogives. The codes are titled and do as follows:
+Code and data to develop the spawning seasonality and the maturity and transition ogives. The files are titled and do the following:
 
 Scamp maturity = development of maturity ogives
 Scamp monthly and annual sample sizes = generates plots of annual and monthly sample sizes
