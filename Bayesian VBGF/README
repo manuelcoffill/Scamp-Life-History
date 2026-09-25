@@ -1,1 +1,2 @@
-Data, scripts, and outputs for the Bayesian VBGF
+Data, scripts, and outputs for the Bayesian VBGF.
+To run the Bayesian VBGF models, open the script titled "lknowNew.R" under the folders "Analysis/R". The datafile needed to run this code is called "Scamp.csv" and is located under the folders "Data/CSV".
